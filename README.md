@@ -22,6 +22,9 @@ relativity-playground
 - time = distance / speed
 - time * speed = distance
 
+### TODOs
+- plot [Lorentz factor - Wikipedia](https://en.wikipedia.org/wiki/Lorentz_factor)
+
 ### TLDR
 - when `observer` see the `event`, `D`
 - Velocity Time Dilation (Special Relativity)
