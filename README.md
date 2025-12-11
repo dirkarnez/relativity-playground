@@ -5,6 +5,7 @@ relativity-playground
 - [Time dilation - Wikipedia](https://en.wikipedia.org/wiki/Time_dilation)
 - [Visualizing Time Dilation - YouTube](https://www.youtube.com/watch?v=5qQheJn-FHc)
 - [Time Dilation formula derivation (Special Relativity) - YouTube](https://www.youtube.com/watch?v=1wmuGV2GIIM)
+- [Intuitive Special Relativity - The Lorentz Transformation — Steemit](https://steemit.com/physics/@procrastilearner/intuitive-special-relativity-the-lorentz-transformation)
 - [The concept of Time Dilation is pretty easy to understand, here’s how | by Bibek Panthi | Medium](https://panthibibek.medium.com/the-concept-of-time-dilation-is-pretty-easy-to-understand-heres-how-28de3263a0fa)
 
 ![](./images/y6ThJO0.jpeg)
