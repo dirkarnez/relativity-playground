@@ -7,6 +7,8 @@ relativity-playground
 - [Time Dilation formula derivation (Special Relativity) - YouTube](https://www.youtube.com/watch?v=1wmuGV2GIIM)
 - [The concept of Time Dilation is pretty easy to understand, here’s how | by Bibek Panthi | Medium](https://panthibibek.medium.com/the-concept-of-time-dilation-is-pretty-easy-to-understand-heres-how-28de3263a0fa)
 
+![](./images/y6ThJO0.jpeg)
+- [Time Dilation via the Pythagorean Theorem proof time is real BECAUSE TRIANGLE! - Imgur](https://imgur.com/time-dilation-via-pythagorean-theorem-proof-time-is-real-because-triangle-y6ThJO0)
 ### Notes
 - the `event`: photon travel from earth to moon
 - the `observer`: A moving spaceship looking at the event
