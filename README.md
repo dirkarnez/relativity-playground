@@ -8,6 +8,8 @@ relativity-playground
 - [Intuitive Special Relativity - The Lorentz Transformation — Steemit](https://steemit.com/physics/@procrastilearner/intuitive-special-relativity-the-lorentz-transformation)
 - [The concept of Time Dilation is pretty easy to understand, here’s how | by Bibek Panthi | Medium](https://panthibibek.medium.com/the-concept-of-time-dilation-is-pretty-easy-to-understand-heres-how-28de3263a0fa)
 
+![](https://upload.wikimedia.org/wikipedia/commons/8/8e/Time-dilation-002-mod.svg)
+  - 1/2 vt means half the triangle, so we can do pythagorean theorem
 ![](./images/y6ThJO0.jpeg)
 - [Time Dilation via the Pythagorean Theorem proof time is real BECAUSE TRIANGLE! - Imgur](https://imgur.com/time-dilation-via-pythagorean-theorem-proof-time-is-real-because-triangle-y6ThJO0)
 ### Notes
