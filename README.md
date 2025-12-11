@@ -5,7 +5,9 @@ relativity-playground
 - [Time dilation - Wikipedia](https://en.wikipedia.org/wiki/Time_dilation)
 - [Visualizing Time Dilation - YouTube](https://www.youtube.com/watch?v=5qQheJn-FHc)
 - [Time Dilation formula derivation (Special Relativity) - YouTube](https://www.youtube.com/watch?v=1wmuGV2GIIM)
+- [The concept of Time Dilation is pretty easy to understand, here’s how | by Bibek Panthi | Medium](https://panthibibek.medium.com/the-concept-of-time-dilation-is-pretty-easy-to-understand-heres-how-28de3263a0fa)
 
+### Notes
 - the `event`: photon travel from earth to moon
 - the `observer`: A moving spaceship looking at the event
 - the `distance` from from earth to moon: `L`
