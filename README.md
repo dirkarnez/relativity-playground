@@ -10,6 +10,7 @@ relativity-playground
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/8e/Time-dilation-002-mod.svg)
   - 1/2 vt means half the triangle, so we can do pythagorean theorem
+  - t' is dilated time
 ![](./images/y6ThJO0.jpeg)
 - [Time Dilation via the Pythagorean Theorem proof time is real BECAUSE TRIANGLE! - Imgur](https://imgur.com/time-dilation-via-pythagorean-theorem-proof-time-is-real-because-triangle-y6ThJO0)
 ### Notes
